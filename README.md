@@ -306,5 +306,5 @@ In my third and final instance, the task was to set up Docker so that Jenkins on
 <p align="center">
   <img src="Images/jen27.png" alt="error" width="80%" height="80%">
   <br>
-  <strong><small>Project Image: Upgrading my instances from t2.micro to t2.medium for more memeory and computing power</small></strong>
+<small>Project Image: Upgrading my instances from t2.micro to t2.medium for more memeory and computing power</small>
 </p> 
