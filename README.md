@@ -238,7 +238,7 @@ In my third and final instance, the task was to set up Docker so that Jenkins on
 <br>
 
 <p align="center">
-  <img src="Images/jen31.png" alt="error" width="80%" height="80%">
+  <img src="Images/gen31.png" alt="error" width="80%" height="80%">
   <br>
 <small>Project Image: Success, the test file was created into my docker file from the jenkins pipeline via a remote shell command</small>
 </p> 
@@ -258,8 +258,8 @@ In my third and final instance, the task was to set up Docker so that Jenkins on
 <p align="center">
   <img src="Images/jen33.png" alt="error" width="80%" height="80%">
   <img src="Images/jen34.png" alt="error" width="80%" height="80%">
-  <img src="Images/jen35.png" alt="error" width="80%" height="80%">
-  <img src="Images/jen36.png" alt="error" width="80%" height="80%">
+  <img src="Images/gen35.png" alt="error" width="80%" height="80%">
+  <img src="Images/gen36.png" alt="error" width="80%" height="80%">
   <br>
 <small>Project Image: With the help of nginx and scp commands remotetly from the jenkins pipeline I was able to contiously/automatically deploy my website application within my pipeline with docker</small>
 </p> 
